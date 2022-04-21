@@ -17,8 +17,6 @@
   
 <div>
   <a href="https://www.linkedin.com/in/gabriel-santos-azevedo-258417213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
- 
- <div> 
+  
   ![snake gif](https://github.com/GabrielAzevedo99/GabrielAzevedo99/blob/output/github-contribution-grid-snake.svg)
   </div>
