@@ -20,6 +20,6 @@
 
    </div>
   
-  ![Snake animation](https://github.com/GabrielAzevedo99/GabrielAzevedo99/blob/output/github-contribution-grid-snake.svg)
+
   
  
